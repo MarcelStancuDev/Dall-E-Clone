@@ -1,2 +1,2 @@
 ## Dall-E-Clone
-This project generate AI images based on what user types.
+This project generate AI images based on what user input.
