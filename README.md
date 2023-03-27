@@ -17,4 +17,6 @@ Client can browse from a collection of other posts(AI generated images) or can c
 The feature 'Surprise me' generate a random text that create an image based on that text.
 By typing a random text in the text box and pressing 'Genereate' button, AI generator creates an image based on input. User have also possibility to share his image with community by pressing the button 'Share with the community'.
 
-URL to access website: https://dall-e-clone-uun2.onrender.com
+## In progress
+
+In progress: host the website to a hosting service.
