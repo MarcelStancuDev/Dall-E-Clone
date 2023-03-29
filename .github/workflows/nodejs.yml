@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: marcelstancu12/dalle-clone:v1
+    runs-on: ubuntu-latest
 
     strategy:
       matrix:
