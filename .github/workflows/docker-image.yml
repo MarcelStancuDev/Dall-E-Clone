@@ -3,13 +3,9 @@ name: Docker Image CI
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -30,4 +26,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: marcelstancu12/git-clone:latest
+        tags: marcelstancu12/dalle-clone:v1
