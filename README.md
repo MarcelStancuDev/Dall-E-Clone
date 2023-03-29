@@ -11,6 +11,13 @@ Project is build using client and server technologies.
 - [Client](https://github.com/MarcelStancuDev/Dall-E-Clone/tree/main/client)
 - [Server](https://github.com/MarcelStancuDev/Dall-E-Clone/tree/main/server)
 
+## Instalation
+
+In the .env file located [here](https://github.com/MarcelStancuDev/Dall-E-Clone/blob/main/.env), you need to fill those messages with your credentials from MongoDB, Cloudinary and OpenAI websites.
+References: - [MongoDB](https://www.mongodb.com/)
+            - [Cloudinary](https://cloudinary.com/)
+            - [OpenAI](https://platform.openai.com/docs/api-reference)
+
 ## Usage
 
 Client can browse from a collection of other posts(AI generated images) or can create an AI generated image by accesing 'Create' page.
