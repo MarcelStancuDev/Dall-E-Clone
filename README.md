@@ -14,9 +14,10 @@ Project is build using client and server technologies.
 ## Instalation
 
 In the .env file located [here](https://github.com/MarcelStancuDev/Dall-E-Clone/blob/main/.env), you need to fill those messages with your credentials from MongoDB, Cloudinary and OpenAI websites.
-References: - [MongoDB](https://www.mongodb.com/)
-            - [Cloudinary](https://cloudinary.com/)
-            - [OpenAI](https://platform.openai.com/docs/api-reference)
+References: 
+- [MongoDB](https://www.mongodb.com/)
+- [Cloudinary](https://cloudinary.com/)
+- [OpenAI](https://platform.openai.com/docs/api-reference)
 
 ## Usage
 
